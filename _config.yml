@@ -12,7 +12,8 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/progress/page:num/"
 # remote-theme: minimal-mistakes-jekyll
-theme: chulapa-jekyll
+#theme: chulapa-jekyll
+remote_theme: dieghernan/chulapa
 
 plugins:
   - jekyll-feed
