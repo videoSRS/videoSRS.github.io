@@ -11,7 +11,9 @@ github_username:  videoSRS
 markdown: kramdown
 paginate: 5
 paginate_path: "/progress/page:num/"
-remote-theme: minimal-mistakes-jekyll
+# remote-theme: minimal-mistakes-jekyll
+theme: chulapa-jekyll
+
 plugins:
   - jekyll-feed
   - jekyll-paginate
