@@ -1,0 +1,1 @@
+VideoSRS is a joint research project of several Leibniz institutes. It is funded by the [Leibniz Association](https://www.leibniz-gemeinschaft.de/en) in the funding scheme [Collaborative Excellence](https://www.leibniz-gemeinschaft.de/en/research/leibniz-competition/leibniz-collaborative-excellence)
