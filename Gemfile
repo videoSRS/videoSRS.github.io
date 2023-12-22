@@ -11,6 +11,7 @@ end
 
 gem "webrick", "~> 1.7"
 
+gem install 'chulapa-jekyll'
 gem "chulapa-jekyll"
 
 
